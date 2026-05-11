@@ -5,8 +5,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# 日报生成的文件
-combined-daily/digests/
+# 日报生成的文件 - 已移除忽略，由 GitHub Actions 自动提交
 
 # 系统文件
 .DS_Store
